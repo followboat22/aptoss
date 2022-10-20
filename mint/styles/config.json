@@ -1,0 +1,25 @@
+{
+    "pinata": {
+        "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
+        "pinataPublicKey": "56b235ceada1902ca96b",
+        "pinataSecretKey": "27894fadc2cbadcb8c62b152284bf5b6ae04adba4f67d21588afa17232d5ae1b"
+    },
+    "candymachine": {
+        "cmPublicKey": "0x307f7a2f87d574f1c0cc504c5416496e950cb533d9d7516926dd78691f4c7a0e",
+        "cmPrivateKey": "0xf1db27abbbe7c4e815c8a694a23ea42c10f04f9406720d93ac61ea155bde05d9",
+        "account_address": "0x307f7a2f87d574f1c0cc504c5416496e950cb533d9d7516926dd78691f4c7a0e",
+        "account_private_key": "0xf1db27abbbe7c4e815c8a694a23ea42c10f04f9406720d93ac61ea155bde05d9"
+    },
+    "collection": {
+        "assetDir": "C:/Users/Krishit/Downloads/APtosss/Aptos-NFT-Mint-main/Aptos-NFT-Mint-main/Images",
+        "metadataDir": "C:/Users/Krishit/Downloads/APtosss/Aptos-NFT-Mint-main/Aptos-NFT-Mint-main/Metadata",
+        "collectionName": "TestCollection101",
+        "collectionDescription": "placeholder",
+        "collectionCover": "https://cloudflare-ipfs.com/ipfs//Qmc84HCwvxQGo1pmumbDmt7ZUu9su3SygBetSYEr5Kdudz",
+        "collectionSize": 10,
+        "mintFee": 1,
+        "presaleMintTime": 0,
+        "publicMintTime": 0,
+        "whitelistDir": ""
+    }
+}
